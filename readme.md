@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Proyecto del Curso: Next.js
+  Proyecto del Curso: Next.js !!
 </h1>
 <p align="center">
   <a href="https://platzi-avo.vercel.app/" target="_blank">
